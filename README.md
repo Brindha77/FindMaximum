@@ -35,9 +35,15 @@ def max_marks(list1):
     return temp
 ~~~
 ## Sample Input and Output
+Maximum of marks using the list method sort:
+
 ![output](./img/max_marks1.jpg) 
 
+Maximum marks using the list method max():
+
 ![output](./ss2.png)
+
+Maximum marks using the list method max():
 
 ![output](./ss3.png)
 
