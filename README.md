@@ -48,10 +48,15 @@ Maximum marks using the list method max():
 ![output](./ss3.png)
 
 ## Output:
+Maximum of marks using the list method sort:
+
 ![output](./out1.png)
+
+Maximum marks using the list method max():
 
 ![output](./out2.png)
 
+Maximum marks using the list method max():
 ![output](./out3.png)
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
